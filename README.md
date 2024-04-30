@@ -2,8 +2,8 @@
 
 ## Overview
 
+https://github.com/mrvarma0/cv-intern/assets/96676649/cde775da-65e9-468b-9257-0ccc3998b3fb
 
-[![Watch the Video](Outputs/final_video.mp4)]([https://drive.google.com/file/d/1H9MF3ojI7VUCrociuMP0ZLGBnsdHSAlK/view?usp=sharing])
 [![Watch the Video](Outputs/product_recognition.png)]([https://drive.google.com/file/d/1H9MF3ojI7VUCrociuMP0ZLGBnsdHSAlK/view?usp=sharing])
 [![Watch the Video](Outputs/product_recognition_2.png)]([https://drive.google.com/file/d/1H9MF3ojI7VUCrociuMP0ZLGBnsdHSAlK/view?usp=sharing])
 [![Watch the Video](Outputs/gen_ai_product.png)]([https://drive.google.com/file/d/1H9MF3ojI7VUCrociuMP0ZLGBnsdHSAlK/view?usp=sharing])
